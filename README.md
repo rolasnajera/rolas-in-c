@@ -1,13 +1,13 @@
 # RolasInC Tutorials
 This repository is intended to share knowledge, notes, exercises, projects and tutorials to
-help people to learn C and C++ programming languages.
+help people to learn C programming.
 
 ## Table of content
-- [Why learn C and C++](#why-learn-c-and-c++)
+- [Why learn C](#why-learn-c)
 - [Books](#books)
 - [Related articles](#related-articles)
 
-## Why learn C and C++
+## Why learn C
 
 ## Books
 
@@ -16,4 +16,4 @@ help people to learn C and C++ programming languages.
 ## Related resources
 
 #### Repository resources
-gitignore templates for [C](https://github.com/github/gitignore/blob/main/C.gitignore) and [C++](https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore).
+gitignore templates for [C](https://github.com/github/gitignore/blob/main/C.gitignore).
