@@ -1,5 +1,6 @@
-# Learning C and C++
-This repository is intended to share knowledge, notes, exercises, project to help people to learn C and C++ programming.
+# RolasInC Tutorials
+This repository is intended to share knowledge, notes, exercises, projects and tutorials to
+help people to learn C and C++ programming languages.
 
 ## Table of content
 - [Why learn C and C++](#why-learn-c-and-c++)
