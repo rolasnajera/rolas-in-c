@@ -8,7 +8,7 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 defaults:
   run:
-    working-diretory: rolasinc
+    working-directory: rolasinc
 jobs:
   test-deploy:
     name: Test deployment
